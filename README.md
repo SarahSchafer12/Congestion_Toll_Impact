@@ -2,7 +2,9 @@
 
 The goal of this project was to evaluate the impact of New York City’s congestion zone toll implementation on traffic patterns and safety outcomes. My primary hypothesis was that although the toll would reduce the number of vehicles entering the congestion zone, the accident rate within the zone would increase.
 To conduct this analysis, I utilized three datasets sourced from the MTA. The first dataset contained recorded collision data across New York City dating back to 2014. The second dataset contained congestion toll entry data, which was generated beginning on January 5, 2025, the day the congestion pricing policy was implemented. The third dataset consisted of MTA-provided charts comparing average daily vehicle entries per month in 2025 to historical monthly averages.
-Data Processing and Methodology
+
+## Data Processing and Methodology
+
 Collision data was filtered and categorized into pre-toll and post-toll periods using January 5, 2025 as the policy implementation threshold. Geographic filtering was applied to distinguish collisions occurring inside the congestion zone from those occurring outside the zone, using street-level location data and coordinate boundaries.
 Vehicle entry data was processed to compute daily congestion zone entries following the toll implementation date. Historical entry averages provided by the MTA were used for comparative analysis because congestion tolling did not exist in prior years, making historical entry calculations from raw data infeasible.
 It is important to note that the dataset currently extends only through October 2025. This limitation exists because the data was uploaded to the ADA system in mid-November 2025, and therefore complete and verified statistics for November and December were not yet available at the time of analysis. As a result, the analysis reflects the most complete dataset available at the time of processing.
