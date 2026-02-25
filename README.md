@@ -17,3 +17,11 @@ The results indicate that while congestion pricing successfully reduced the numb
 
 The findings of this analysis suggest that congestion pricing achieved its intended effect of reducing traffic volume but may have produced unintended consequences regarding roadway safety metrics. Although the total number of vehicles entering the congestion zone decreased, collision frequency remained relatively stable, resulting in higher normalized accident rates.
 Overall, the data supports the original hypothesis that congestion pricing implementation was associated with an increase in accident rates within the study period.
+
+## Analysis Results
+
+### Overall Impact of Congestion Pricing
+![Full Analysis Graph](output/fullAnalysis.pdf)
+
+### Accident Rate Trends
+![Accident Rate Graph](output/ratesGraph.pdf)
