@@ -1,7 +1,7 @@
 ## Project Overview
 
 The goal of this project was to evaluate the impact of New York City’s congestion zone toll implementation on traffic patterns and safety outcomes. My primary hypothesis was that although the toll would reduce the number of vehicles entering the congestion zone, the accident rate within the zone would increase.
-To conduct this analysis, I utilized three datasets sourced from the MTA. The first dataset contained recorded collision data across New York City dating back to 2014. The second dataset contained congestion toll entry data, which was generated beginning on January 5, 2025, the day the congestion pricing policy was implemented. The third dataset consisted of MTA-provided charts comparing average daily vehicle entries per month in 2025 to historical monthly averages.
+To conduct this analysis, I utilized two datasets sourced from the MTA. The first dataset contained recorded collision data across New York City dating back to 2014, including post January 5, 2025 when the congestion pricing policy was implemented. The second dataset consisted of MTA-provided charts comparing average daily vehicle entries per month in 2025 to historical monthly averages.
 
 ## Data Processing and Methodology
 
